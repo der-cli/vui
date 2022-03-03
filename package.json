@@ -1,8 +1,8 @@
 {
   "name": "vui",
-  "version": "1.0.0",
+  "version": "0.0.2",
   "private": false,
-  "description": "55",
+  "description": "der vui",
   "main": "dist/vui.umd.js",
   "module": "dist/vui.esm.js",
   "author": "",
