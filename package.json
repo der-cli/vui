@@ -1,6 +1,6 @@
 {
   "name": "vui",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "private": false,
   "description": "der vui",
   "main": "dist/vui.umd.js",
